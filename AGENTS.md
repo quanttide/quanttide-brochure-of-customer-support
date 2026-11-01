@@ -14,7 +14,8 @@
 
 ## 规矩
 
-- 对外只讲客户得到什么，一个内部术语都不出现；
-- 改口径先回领域仓 `domains/quanttide-support/AGENTS.md` 对认知，认知没改，口径不改。
+- 对外只讲客户得到什么，一个内部术语都不出现。
+
+改口径的流程见本仓 `CONTRIBUTING.md`。
 
 领域全景（需求、意图、两段分工与三段范式）见领域仓 `domains/quanttide-support/AGENTS.md`。
